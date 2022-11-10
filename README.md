@@ -13,7 +13,9 @@ These images show the rev1 design. The rev2 design that is included in this repo
 
 # Ordering Instructions
 
-The Gerber files have been generated specific to JLCPCB. Specify 0.8mm board thickness.
+The Gerber files have been generated specific to JLCPCB: https://support.jlcpcb.com/article/149-how-to-generate-gerber-and-drill-files-in-kicad
+
+Specify 0.8mm board thickness.
 
 # Assembly Instructions
 
