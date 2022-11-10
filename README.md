@@ -7,6 +7,8 @@ This is possible as the PSX memory card and controller ports share the same bus,
 <img src="./Images/top.jpeg" alt="Custom PCBs" width="250"> <img src="./Images/bottom.jpeg" alt="Custom PCBs" width="250"> 
 <img src="./Images/board.jpeg" alt="Custom PCBs" width="250">
 
+Demo Video: https://youtu.be/jc9e9mESD8Y 
+
 These images show the rev1 design. The rev2 design that is included in this repository has slightly updated board dimensions and footprints. 
 
 # Ordering Instructions
