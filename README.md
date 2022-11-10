@@ -15,7 +15,17 @@ These images show the rev1 design. The rev2 design that is included in this repo
 
 The Gerber files have been generated specific to JLCPCB: https://support.jlcpcb.com/article/149-how-to-generate-gerber-and-drill-files-in-kicad
 
-Specify 0.8mm board thickness.
+Specify 0.8mm board thickness. 
+
+Specify the following layer sequence:
+
+L1 (Top Layer)     - ps1_memcard_test-F_Cu.gtl
+
+L2 (Inner Layer 1) - ps1_memcard_test-In1_Cu.g2
+
+L3 (Inner Layer 2) - ps1_memcard_test-In2_Cu.g3
+
+L4 (Bottom Layer)  - ps1_memcard_test-B_Cu.gbl
 
 # Assembly Instructions
 
