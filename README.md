@@ -4,7 +4,8 @@ BlueMemCard is an drop-in replacement PCB for the PSX memory card that combines 
 
 This is possible as the PSX memory card and controller ports share the same bus, and have nearly identical pinouts. Currently only P1 is supported, and there is no detection if a regular controller is connected. 
 
-<img src="./Images/top.jpeg" alt="Custom PCBs" width="300"> <img src="./Images/board.jpeg" alt="Custom PCBs" width="300"> <img src="./Images/bottom.jpeg" alt="Custom PCBs" width="300">
+<img src="./Images/top.jpeg" alt="Custom PCBs" width="250"> <img src="./Images/bottom.jpeg" alt="Custom PCBs" width="250"> 
+<img src="./Images/board.jpeg" alt="Custom PCBs" width="250">
 
 These images show the rev1 design. The rev2 design that is included in this repository has slightly updated board dimensions and footprints. 
 
