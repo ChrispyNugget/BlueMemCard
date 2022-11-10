@@ -1,6 +1,6 @@
 # BlueMemCard
 
-BlueMemCard is an drop-in replacement PCB for the PSX memory card that combines the existing PicoMemcard and BlueRetro technologies into one board. BlueMemCard allows the use of a Bluetooth controller while also functioning as a regular memory card and also allows the memory card image to be transferred to a PC via USB. Just as important, the board fits right in the stock Sony memory card housing, resulting in a stock and stealth look. 
+BlueMemCard is a drop-in replacement PCB for the PSX memory card that combines the existing PicoMemcard and BlueRetro technologies into one board. BlueMemCard allows the use of a Bluetooth controller while also functioning as a regular memory card and also allows the memory card image to be transferred to a PC via USB. Just as important, the board fits right in the stock Sony memory card housing, resulting in a stock and stealth look. 
 
 This is possible as the PSX memory card and controller ports share the same bus, and have nearly identical pinouts. Currently only P1 is supported, and there is no detection if a regular controller is connected. 
 
