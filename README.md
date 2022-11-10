@@ -9,7 +9,7 @@ This is possible as the PSX memory card and controller ports share the same bus,
 
 Demo Video: https://youtu.be/jc9e9mESD8Y 
 
-These images show the rev1 design. The rev2 design that is included in this repository has slightly updated board dimensions and footprints. 
+**Note:** These images show the rev1 design. The rev2 design that is included in this repository has slightly updated board dimensions and footprints. As of Nov 10 2022 I have ordered rev2 boards to build and test, but I do not anticipate any issues as the changes from rev1 were very slight. 
 
 # Ordering Instructions
 
